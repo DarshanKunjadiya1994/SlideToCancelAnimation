@@ -10,4 +10,4 @@ This demo code have use GLMoveToTrashAnimation. you can find that here https://g
 
 **Example**
 
-![See Example](https://raw.githubusercontent.com/DarshanKunjadiya1994/AppleMusicAnimation/master/AppleMusicAnimation/AppleMusicAnimation.gif)
+![See Example](https://raw.githubusercontent.com/DarshanKunjadiya1994/SlideToCancelAnimation/master/SlideToCancel/SlideToCancel.gif)
