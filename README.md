@@ -11,3 +11,7 @@ This demo code have use GLMoveToTrashAnimation. you can find that here https://g
 **Example**
 
 ![See Example](https://raw.githubusercontent.com/DarshanKunjadiya1994/SlideToCancelAnimation/master/SlideToCancel/SlideToCancel.gif)
+
+ License
+
+`SlideToCancelAnimation` is available under the MIT license. See the [LICENSE](./LICENSE) file for more info.
